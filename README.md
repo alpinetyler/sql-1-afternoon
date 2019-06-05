@@ -64,11 +64,11 @@ INSERT INTO person(
   city,
   favorite_color
   )
-  VALUES('Jim Smith', 45, 180, 'Provo', 'red');
-  VALUES('Abe Jensen', 33, 190, 'Alpine', 'blue');
-  VALUES('Jim Smith', 45, 180, 'Provo', 'red');
-  VALUES('Jim Smith', 45, 180, 'Provo', 'red');
-  VALUES('Jim Smith', 45, 180, 'Provo', 'red');
+  VALUES('Jim Smith', 45, 180, 'Provo', 'red'),
+  VALUES('Abe Jensen', 33, 190, 'Alpine', 'blue'),
+  VALUES('Jane Doe', 38, 165, 'Midway', 'blue'),
+  VALUES('Mary Jones', 53, 160, 'Lindon', 'green'),
+  VALUES('Phillip Jensen', 33, 188, 'Provo', 'purple');
 
 
 ```sql
